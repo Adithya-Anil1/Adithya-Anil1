@@ -1,17 +1,19 @@
-<h4 align="left">About Me:<br>Third-year Computer Science and Business Systems student passionate about AI and software development. Worked on multiple projects involving generative AI, now exploring backend development with Java.</h4>
+<h4 align="center">About Me:<br>Third-year Computer Science and Business Systems student passionate about AI and software development. Worked on multiple projects involving generative AI, now exploring backend development with Java.</h4>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Adithya-Anil1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adithya-Anil1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adithya-Anil1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="154" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Adithya-Anil1&theme=dracula&row=1&column=4&margin-w=15" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adithya-Anil1&theme=dracula&radius=16&area=true&hide_border=false&hide_title=false&custom_title=My%20Contribution%20Graph" height="150" alt="activity-graph graph"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://ohiofi.com/assets/nyan.gif"  />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Adithya-Anil1/count.svg?"  />
+</div>
 
 ###
 
@@ -59,11 +61,5 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Adithya-Anil1/Adithya-Anil1/output/snake.svg" alt="Snake animation" />
 
 ###
