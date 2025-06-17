@@ -11,9 +11,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Adithya-Anil1/count.svg?"  />
-</div>
 
 ###
 
