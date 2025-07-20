@@ -1,4 +1,4 @@
-<h3 align="center">About Me:<br>Third-year Computer Science and Business Systems student passionate about AI and software development. Worked on multiple projects involving generative AI, now exploring backend development with JavaScript and Node.js .</h3>
+<h3 align="center">About Me:<br>Final year Computer Science and Business Systems student passionate about AI and software development. Worked on multiple projects involving generative AI, now exploring backend development with JavaScript and Node.js .</h3>
 
 ###
 
